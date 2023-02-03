@@ -1,0 +1,107 @@
+{
+  "data": [
+    {
+      "first_name": "nikhil",
+      "last_name": "morya",
+      "email": "morya@gmail.com",
+      "id": 1,
+      "avatar": "https://reqres.in/img/faces/1-image.jpg"
+    },
+    {
+      "first_name": "kesaa",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "id": 2,
+      "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    {
+      "first_name": "sadas",
+      "last_name": "asdasd",
+      "email": "seee",
+      "id": 3,
+      "avatar": "https://reqres.in/img/faces/3-image.jpg"
+    },
+    {
+      "first_name": "saaaaaaa",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "id": 4,
+      "avatar": "https://reqres.in/img/faces/4-image.jpg"
+    },
+    {
+      "first_name": "oooooooooo",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "id": 5,
+      "avatar": "https://reqres.in/img/faces/5-image.jpg"
+    },
+    {
+      "first_name": "dubey",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "id": 6,
+      "avatar": "https://reqres.in/img/faces/6-image.jpg"
+    },
+    {
+      "first_name": "sunil",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "id": 12
+    },
+    {
+      "first_name": "or",
+      "last_name": "chote",
+      "email": "kesa",
+      "id": 15
+    },
+    {
+      "first_name": "ddddddddd",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "id": 16
+    },
+    {
+      "first_name": "deepak",
+      "last_name": "dubey",
+      "email": "dubey@gmail.com",
+      "id": 18
+    },
+    {
+      "first_name": "dubey1",
+      "last_name": "asdasd",
+      "email": "asdasd",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 22
+    },
+    {
+      "first_name": "sanket",
+      "last_name": "dhawan",
+      "email": "dhawan@gmail.com",
+      "avatar": "https://reqres.in/img/faces/1-image.jpg",
+      "id": 24
+    },
+    {
+      "first_name": "sidhesh",
+      "last_name": "sss",
+      "email": "ss@gmail.com",
+      "avatar": "",
+      "id": 25
+    },
+    {
+      "first_name": "dubey11",
+      "last_name": "deepak",
+      "email": "asdasd",
+      "id": 29
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
